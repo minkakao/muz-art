@@ -8,3 +8,5 @@ version two three
 this is test two
 
 바로커밋해브러라
+
+명령어까지 넣기! 
